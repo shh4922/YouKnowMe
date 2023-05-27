@@ -11,6 +11,22 @@
 		007B65122A1E327500B34865 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65112A1E327500B34865 /* ContentView.swift */; };
 		007B65142A1E327600B34865 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 007B65132A1E327600B34865 /* Assets.xcassets */; };
 		007B65172A1E327600B34865 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 007B65162A1E327600B34865 /* Preview Assets.xcassets */; };
+		007B651F2A1E34FA00B34865 /* GamjaFlower-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 007B651E2A1E34FA00B34865 /* GamjaFlower-Regular.ttf */; };
+		007B65222A1E3CFF00B34865 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65212A1E3CFF00B34865 /* TestView.swift */; };
+		007B65252A1E41DF00B34865 /* TestVIew1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65242A1E41DF00B34865 /* TestVIew1.swift */; };
+		007B65272A1E468500B34865 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65262A1E468500B34865 /* Data.swift */; };
+		007B65292A1E476900B34865 /* TestView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65282A1E476900B34865 /* TestView2.swift */; };
+		007B652D2A1E5C5200B34865 /* TestView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B652C2A1E5C5200B34865 /* TestView3.swift */; };
+		007B652F2A1E5CC800B34865 /* TestView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B652E2A1E5CC800B34865 /* TestView4.swift */; };
+		007B65312A1E5D5B00B34865 /* TestView5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65302A1E5D5B00B34865 /* TestView5.swift */; };
+		007B65332A1E5E0E00B34865 /* TestView6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65322A1E5E0E00B34865 /* TestView6.swift */; };
+		007B65352A1E5EC000B34865 /* TestView7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65342A1E5EC000B34865 /* TestView7.swift */; };
+		007B65372A1E5F7600B34865 /* TestView8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65362A1E5F7600B34865 /* TestView8.swift */; };
+		007B65392A1E604C00B34865 /* TestView9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65382A1E604C00B34865 /* TestView9.swift */; };
+		007B653B2A1E60C300B34865 /* TestView10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B653A2A1E60C300B34865 /* TestView10.swift */; };
+		007B653D2A1E61A300B34865 /* TestView11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B653C2A1E61A300B34865 /* TestView11.swift */; };
+		007B653F2A1E628300B34865 /* TestView12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B653E2A1E628300B34865 /* TestView12.swift */; };
+		007B65412A1E63EB00B34865 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007B65402A1E63EB00B34865 /* ResultView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,23 @@
 		007B65112A1E327500B34865 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		007B65132A1E327600B34865 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		007B65162A1E327600B34865 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		007B651E2A1E34FA00B34865 /* GamjaFlower-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GamjaFlower-Regular.ttf"; sourceTree = "<group>"; };
+		007B65202A1E350A00B34865 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		007B65212A1E3CFF00B34865 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		007B65242A1E41DF00B34865 /* TestVIew1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestVIew1.swift; sourceTree = "<group>"; };
+		007B65262A1E468500B34865 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		007B65282A1E476900B34865 /* TestView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView2.swift; sourceTree = "<group>"; };
+		007B652C2A1E5C5200B34865 /* TestView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView3.swift; sourceTree = "<group>"; };
+		007B652E2A1E5CC800B34865 /* TestView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView4.swift; sourceTree = "<group>"; };
+		007B65302A1E5D5B00B34865 /* TestView5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView5.swift; sourceTree = "<group>"; };
+		007B65322A1E5E0E00B34865 /* TestView6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView6.swift; sourceTree = "<group>"; };
+		007B65342A1E5EC000B34865 /* TestView7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView7.swift; sourceTree = "<group>"; };
+		007B65362A1E5F7600B34865 /* TestView8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView8.swift; sourceTree = "<group>"; };
+		007B65382A1E604C00B34865 /* TestView9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView9.swift; sourceTree = "<group>"; };
+		007B653A2A1E60C300B34865 /* TestView10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView10.swift; sourceTree = "<group>"; };
+		007B653C2A1E61A300B34865 /* TestView11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView11.swift; sourceTree = "<group>"; };
+		007B653E2A1E628300B34865 /* TestView12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView12.swift; sourceTree = "<group>"; };
+		007B65402A1E63EB00B34865 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +84,13 @@
 		007B650E2A1E327500B34865 /* YouKnowMe */ = {
 			isa = PBXGroup;
 			children = (
+				007B65232A1E41C200B34865 /* View */,
+				007B65202A1E350A00B34865 /* Info.plist */,
+				007B651D2A1E34EE00B34865 /* Fonts */,
 				007B650F2A1E327500B34865 /* YouKnowMeApp.swift */,
-				007B65112A1E327500B34865 /* ContentView.swift */,
 				007B65132A1E327600B34865 /* Assets.xcassets */,
 				007B65152A1E327600B34865 /* Preview Content */,
+				007B65262A1E468500B34865 /* Data.swift */,
 			);
 			path = YouKnowMe;
 			sourceTree = "<group>";
@@ -65,6 +101,36 @@
 				007B65162A1E327600B34865 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		007B651D2A1E34EE00B34865 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				007B651E2A1E34FA00B34865 /* GamjaFlower-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		007B65232A1E41C200B34865 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				007B65112A1E327500B34865 /* ContentView.swift */,
+				007B65212A1E3CFF00B34865 /* TestView.swift */,
+				007B65242A1E41DF00B34865 /* TestVIew1.swift */,
+				007B65282A1E476900B34865 /* TestView2.swift */,
+				007B652C2A1E5C5200B34865 /* TestView3.swift */,
+				007B652E2A1E5CC800B34865 /* TestView4.swift */,
+				007B65302A1E5D5B00B34865 /* TestView5.swift */,
+				007B65322A1E5E0E00B34865 /* TestView6.swift */,
+				007B65342A1E5EC000B34865 /* TestView7.swift */,
+				007B65362A1E5F7600B34865 /* TestView8.swift */,
+				007B65382A1E604C00B34865 /* TestView9.swift */,
+				007B653A2A1E60C300B34865 /* TestView10.swift */,
+				007B653C2A1E61A300B34865 /* TestView11.swift */,
+				007B653E2A1E628300B34865 /* TestView12.swift */,
+				007B65402A1E63EB00B34865 /* ResultView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +191,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				007B651F2A1E34FA00B34865 /* GamjaFlower-Regular.ttf in Resources */,
 				007B65172A1E327600B34865 /* Preview Assets.xcassets in Resources */,
 				007B65142A1E327600B34865 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +204,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				007B652D2A1E5C5200B34865 /* TestView3.swift in Sources */,
+				007B653D2A1E61A300B34865 /* TestView11.swift in Sources */,
+				007B65312A1E5D5B00B34865 /* TestView5.swift in Sources */,
+				007B652F2A1E5CC800B34865 /* TestView4.swift in Sources */,
+				007B65352A1E5EC000B34865 /* TestView7.swift in Sources */,
+				007B65222A1E3CFF00B34865 /* TestView.swift in Sources */,
+				007B65372A1E5F7600B34865 /* TestView8.swift in Sources */,
+				007B65392A1E604C00B34865 /* TestView9.swift in Sources */,
+				007B653B2A1E60C300B34865 /* TestView10.swift in Sources */,
+				007B653F2A1E628300B34865 /* TestView12.swift in Sources */,
+				007B65272A1E468500B34865 /* Data.swift in Sources */,
 				007B65122A1E327500B34865 /* ContentView.swift in Sources */,
+				007B65252A1E41DF00B34865 /* TestVIew1.swift in Sources */,
+				007B65412A1E63EB00B34865 /* ResultView.swift in Sources */,
 				007B65102A1E327500B34865 /* YouKnowMeApp.swift in Sources */,
+				007B65292A1E476900B34865 /* TestView2.swift in Sources */,
+				007B65332A1E5E0E00B34865 /* TestView6.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,7 +277,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				INFOPLIST_KEY_CFBundleDisplayName = "신현호 모의고사";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -249,7 +332,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				INFOPLIST_KEY_CFBundleDisplayName = "신현호 모의고사";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -265,16 +349,18 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"YouKnowMe/Preview Content\"";
 				DEVELOPMENT_TEAM = 56F34CN49K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = YouKnowMe/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -294,16 +380,18 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"YouKnowMe/Preview Content\"";
 				DEVELOPMENT_TEAM = 56F34CN49K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = YouKnowMe/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

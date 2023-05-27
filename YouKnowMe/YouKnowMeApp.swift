@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct YouKnowMeApp: App {
+    var vm = Data()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(vm)
         }
     }
+    
 }
